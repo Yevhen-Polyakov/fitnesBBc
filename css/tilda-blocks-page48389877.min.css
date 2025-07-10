@@ -59,7 +59,10 @@
 
 #allrecords b,
 #allrecords strong {
-    font-weight: 700
+    font-weight: 700;
+    font-weight:bold;
+    line-height: 29px;
+    
 }
 
 @media print {
