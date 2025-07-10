@@ -206,9 +206,10 @@
 
     .gradient-1 {
         position: absolute;
-        top: -55px;
+        top: -110px;
         left: 0;
         width: 100%;
+        height:40%;
         z-index: 2;
 }
 
