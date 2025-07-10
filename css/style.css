@@ -16,6 +16,8 @@
 
 .rusult-text-wrapper {
     width: 544px;
+    position: relative;
+    z-index: 20;
 }
 
 .title-3{
@@ -186,6 +188,7 @@
 
     .rusult-wrapper-img {
         transform: translateX(75px);
+        
     }
 
     .result-link-active{
